@@ -97,7 +97,7 @@ Superstore-Sales-EDA/
 ![Sales by Region](images/sales_by_region.png)
 
 ### Sales contribution by Segment
-![Sales by Segment](images/sales_contribution_by_segment.png)
+![Sales by Segment](images/sales_contribution_by_segement.png)
 
 ### Profit by Sub-Category
 ![Profit by Sub-Category](images/profit_by_subcategory.png)
