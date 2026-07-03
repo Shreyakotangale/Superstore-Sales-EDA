@@ -91,20 +91,20 @@ Superstore-Sales-EDA/
 ## 📸 Project Visualizations
 
 ### Sales by Category
-![Sales by Category](images/sales_by_category.png)
+![Sales by Category](Sales_EDA_Project/images/sales_by_category.png)
 
 ### Sales by Region
-![Sales by Region](images/sales_by_region.png)
+![Sales by Region](Sales_EDA_Project/images/sales_by_region.png)
 
 ### Sales contribution by Segment
-![Sales by Segment](images/sales_contribution_by_segement.png)
+![Sales by Segment](Sales_EDA_Project/images/sales_contribution_by_segement.png)
 
 ### Profit by Sub-Category
-![Profit by Sub-Category](images/profit_by_subcategory.png)
+![Profit by Sub-Category](Sales_EDA_Project/images/profit_by_subcategory.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](Sales_EDA_Project/images/correlation_heatmap.png)
 
 ### Sales by ship-mode
-![Sales by ship-mode](images/sales_by_ship-mode.png)
+![Sales by ship-mode](Sales_EDA_Project/images/sales_by_ship-mode.png)
 
